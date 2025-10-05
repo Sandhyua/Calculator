@@ -23,9 +23,8 @@ This project performs basic arithmetic operations like addition, subtraction, mu
 ---
 
 ## 📸 Screenshot  
-(Replace `screenshot.png` with your actual image file if you upload one in the repo)  
+<img width="597" height="806" alt="calculator" src="https://github.com/user-attachments/assets/9c5068e9-e574-4dff-8d36-02236e04d05b" />
 
-"C:\Users\dell\OneDrive\รูปภาพ\Screenshots\calculator.png"
 
 
 ## 📂 Installation / Usage  
